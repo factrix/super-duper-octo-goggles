@@ -10,10 +10,11 @@ URL Perfil GitHub: https://github.com/factrix
 Repositorio: super-duper-octo-goggles
 -------------------------------------------------------
 
-Comando         Descripción
-git init        inicia el repositorio
-git commit      acepta los cambios realizados bajo los archivos
-git clone       clona el repositorio a local
-git add         realiza el marcaje sobre el archivo al repositorio
-git push        publica a local los archivos
+|Comando     |    Descripción                                         |
+|------------|--------------------------------------------------------|
+|git init    |    inicia el repositorio                               |  
+|git commit  |    acepta los cambios realizados bajo los archivos     |
+|git clone   |    clona el repositorio a local                        |
+|git add     |    realiza el marcaje sobre el archivo al repositorio  |
+|git push    |    publica a local los archivos                        |
 
